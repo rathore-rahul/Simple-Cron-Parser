@@ -1,0 +1,2 @@
+class InvalidCronExpressionException(Exception):
+    pass
